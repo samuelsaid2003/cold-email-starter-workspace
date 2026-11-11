@@ -1,0 +1,3 @@
+interface:
+  display_name: "Company Name Cleaning"
+  short_description: "Clean company names in a lead CSV for natural cold email"
